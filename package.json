@@ -14,7 +14,7 @@
     "preview_image_url": "https://imagedelivery.net/wSMYJvS3Xw-n339CbDyDIA/43100bd9-8e11-4c20-cc00-3bec86253f00/public"
   },
   "dependencies": {
-    "cobe": "0.6.3",
+    "cobe": "0.6.4",
     "partyserver": "0.0.57",
     "partysocket": "1.0.2",
     "react": "18.3.1",
